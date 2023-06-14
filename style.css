@@ -1,0 +1,29 @@
+* {
+    background: burlywood;
+    line-height: 1.5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+li {
+    color: black;
+    font-size: 16px;
+}
+
+img {
+    width: 300px;
+    height: auto
+}
+
+p {
+    color: black;
+}
